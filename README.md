@@ -1,2 +1,2 @@
-# EXCEL-DASHBOARD
-This project shows the details of top performing  sales executives of a company region wise and the targets hit by them.This project shows cleaning the raw data and filtering out the raw data using excel tools.
+Sales Performance Dashboard
+This interactive Sales Performance Dashboard, built using Excel and Power BI, provides a comprehensive analysis of sales executives' performance across different regions. The dashboard helps businesses track sales trends, target achievements, and performance gaps, enabling data-driven decision-making to improve sales efficiency and strategy.This project demonstrates expertise in data visualization, business intelligence, and sales performance optimization, making it valuable for data-driven sales management
